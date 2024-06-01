@@ -54,6 +54,19 @@ git branch -M main (to rename branch)<br>
 git checkout <-Branch Name-> (to navigate to another branch)<br>
 git checkout -b <-new branch name-> (to create new branch)<br>
 git branch -d <-branch name-> (to delete branch)<br>
+/*PULL Command*/
+
+
+git pull origin main = used to fetch and download content from a remote repo to local repo<br>
+
+/*Meging Code*/
+
+git diff <-branch name-> (to compare commits branches, files & more)<br>
+git merge <-branch name-> (to merge 2 branches)<br>
+
+/*Resolving Merge Conflicts*/
+
+An event that take place when git is unable to automatically resolve differences in code between two commits<br>
 
 /*CMD commands*/
 
