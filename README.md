@@ -46,9 +46,14 @@ init = used to create a new git repo<br>
 git init<br>
 git remote add origin <-link-><br>
 git remote -v (to verify remote)<br>
+git push origin main<br>
+
+/*Branch Commands*/
 git branch (to check branch)<br>
 git branch -M main (to rename branch)<br>
-git push origin main<br>
+git checkout <-Branch Name-> (to navigate to another branch)<br>
+git checkout -b <-new branch name-> (to create new branch)<br>
+git branch -d <-branch name-> (to delete branch)<br>
 
 /*CMD commands*/
 
