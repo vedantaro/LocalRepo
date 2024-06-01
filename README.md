@@ -64,7 +64,7 @@ git pull origin main = used to fetch and download content from a remote repo to 
 git diff <-branch name-> (to compare commits branches, files & more)<br>
 git merge <-branch name-> (to merge 2 branches)<br>
 
-/*Resolving Merge Conflicts*/
+/*Resolving Merge*/
 
 An event that take place when git is unable to automatically resolve differences in code between two commits<br>
 
