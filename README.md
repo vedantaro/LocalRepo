@@ -40,7 +40,18 @@ git push origin main
 origin = origin is the name of our remote GitHub
 main = main is the branch of our repo
 
+/*Init Command*/
+
+init = used to create a new git repo<br>
+git init<br>
+git remote add origin <-link-><br>
+git remote -v (to verify remote)<br>
+git branch (to check branch)<br>
+git branch -M main (to rename branch)<br>
+git push origin main<br>
+
 /*CMD commands*/
+
 cd <-folder name-> = change directory
 cd .. = goes out of the current directory 
 mkdir <-folder name-> = to create a new folder  
